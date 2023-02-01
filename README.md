@@ -5,7 +5,7 @@
   <h3>♍ :virgo:SOU ORGANIZADA</h3>
  <h2>Prazer meu nome Tamires  Valentim, sou programadora front end</h2>
  <br>
- <p>Estou desenvolvendo projeto no HTML e CSS e no momento estou num aprendizado no JAVASPRIT para aprimoração.
+ <p>Estou desenvolvendo projeto no HTML e CSS e no momento estou num aprendizado no JAVASCRIPT para aprimoração.
   <br>
   Estou me desenvolvendo no DEV CLUB :mortar_board: <p>
    <br>
