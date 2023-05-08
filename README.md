@@ -22,7 +22,7 @@
    <br>
     <h2>ENTRA EM CONTATO COMIGO👌<h2>
 <a href="https://www.instagram.com/tamires_vvalentim/"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt=" instagram" width="40px"clica aqui></a>
-  <a href="tamiresvalentim.programatora@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"  alt=" email-gmail" width="40px"><a> <a href="https://www.linkedin.com/in/tamires-valentim/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkdin"width="40px"><a>
+  <a href = "mailto:tamiresvalentim.programatora@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"  alt=" email-gmail" width="40px"><a> <a href="https://www.linkedin.com/in/tamires-valentim/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkdin"width="40px"><a>
     <br>
     <br>
     <br>
