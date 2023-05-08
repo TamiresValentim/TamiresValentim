@@ -3,9 +3,11 @@
 <br>
 <br>
   <h3>♍ :virgo:SOU ORGANIZADA</h3>
- <h2>Prazer meu nome Tamires  Valentim, sou programadora front end</h2>
+ <h2>Prazer meu nome Tamires  Valentim, sou desenvolvedora front end</h2>
  <br>
- <p>Estou desenvolvendo projeto no HTML e CSS e no momento estou num aprendizado no JAVASCRIPT para aprimoração.
+ <p>Estou desenvolvendo projeto pela tecnologias HTML, CSS e JAVASCRIPT e começando no node.js e vou me aprimorando e colocando meus projetos para cada evolução que     estou adquirindo na programação.
+
+
   <br>
   Estou me desenvolvendo no DEV CLUB :mortar_board: <p>
    <br>
@@ -20,7 +22,7 @@
    <br>
     <h2>ENTRA EM CONTATO COMIGO👌<h2>
 <a href="https://www.instagram.com/tamires_vvalentim/"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt=" instagram" width="40px"clica aqui></a>
-  <a href="tamiresvalentim.programatora@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"  alt=" email-gmail" width="40px"><a> <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkdin"width="40px">
+  <a href="tamiresvalentim.programatora@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png"  alt=" email-gmail" width="40px"><a> <a href="https://www.linkedin.com/in/tamires-valentim/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkdin"width="40px"><a>
     <br>
     <br>
     <br>
