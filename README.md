@@ -1,16 +1,17 @@
 <h1>Olá Tudo bem?🦄</h1>
 <br>
 <br>
+<h3>♍ :virgo:SOU ORGANIZADA</h3>
+<h3>Olá sou Tamires Valentim, desenvolvedora front-end 👩🏾‍💻 em formação para desenvolver full stack🚀. Quando a tecnologia apareceu me apaixonei à primeira vista pela programação, podemos afirmar que arte de programa é mundo magico onde se dá vida a cada códigos. Então sim sou amante da tecnologia. Estou em transição de carreira para fazer o que amor.</h3> <br>
 <br>
-  <h3>♍ :virgo:SOU ORGANIZADA</h3>
- <h2>Prazer meu nome Tamires  Valentim, sou desenvolvedora front end</h2>
- <br>
- <p>Estou desenvolvendo projeto pela tecnologias HTML, CSS e JAVASCRIPT e começando no node.js e vou me aprimorando e colocando meus projetos para cada evolução que     estou adquirindo na programação.
-
-
-  <br>
-  Estou me desenvolvendo no DEV CLUB :mortar_board: <p>
-   <br>
+<p>Estou me formando pela instituição EaD pelo Devclub com orientação do Rodolfo mori, aonde tem aula de inglês, mentoria de RH, aula de programação na teoria e, na prática, projetos pontual, e métodos excelentes de ensino onde se trabalha muito a inteligência emocional para competir no mercado de trabalho atual.</p>
+<br>
+<p>Gosto de trabalha com a programação, pois sempre trabalhei resolvendo problemas e sou boa em resolução. Busco sempre conhecimento e sou muito curiosa e sempre pergunto, pois só assim que se aprender e na área desenvolvedor full stack nunca vou para de busca conhecimento e se atualizar.</p>
+<br>
+<p>A linguagem de programação que estou aptar são HTML5,CSS, CSS3, JAVASCRIPT, NODE.JS, REACT.js.</p> 
+<p>Todos os projetos que já fiz e estou fazendo utilizo a seguintes ferramentas: Visual Studio Code, Figma, Git.</p>
+<br>
+<br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <br>
    <br>
@@ -28,7 +29,7 @@
     <br>
     <br>
     <br>
-     <br>
+   <br>
    <br>
    <br>
    <br>
